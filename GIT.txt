@@ -1,0 +1,20 @@
+COMO SUBIR ARCHIVOS A UN REPO
+- git config --global user.name 'simoncito7'
+- git config --global user.email 'simon.m.valenzuela@gmail.com'
+- git add .
+- git commit -m "Script de Python
+- git push origin master
+
+CLONAR
+
+- git clone "HTTPS del repo"
+
+
+COMO ELIMINAR UNA CARPETA EN GITHUB
+- git rm -r "archivo"
+- git commit -m "Comentario sobre el commit"
+- git push
+
+
+
+
